@@ -22,7 +22,7 @@ This project uses `JavaScript` array, `html` and `Bootstrap` customization to cr
 
 `Filter Results Using Shape (triangle)`
 
-![shape_triangle_filter.png](https://github.com/charleside2001/UFOs-Project/blob/9741170c71de7c41b4ab30c41363aa55bd891287/static/images/shape_triangle_filter.png) 
+![shape_triangle_filter.png](https://github.com/charleside2001/UFOs-Project/blob/a4ef5f5a6a5944190cfdff5b688a908765db4110/static/images/shape_triangle_filter.png) 
 
 ---
 ## Summary
